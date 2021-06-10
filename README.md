@@ -7,7 +7,6 @@
 <p> A primeira dose da vacina BCG ao nascer é recomendada na maioria dos países, principalmente naqueles com elevada incidência de Tuberculose, a exemplo do Brasil. Essa recomendação visa evitar a ocorrência de formas graves de Tuberculose em crianças. Em países com baixa prevalência, a exemplo da Inglaterra e outros países europeus, a primeira dose da vacina BCG é adotada em escolares (12 e 13 anos de idade) que possuam teste tuberculínico negativo.</p>
 <p> A vacina BCG não é 100% eficaz, como a maioria das vacinas que temos à disposição. Entretanto, estudos mostram que o efeito protetor contra tuberculose infantil é sempre alto (>90%), enquanto que sua eficacia contra a tuberculose pulmonar, mais comum em adolescentes e adultos, pode variar de 0 a 100%. 
 
-![image](https://user-images.githubusercontent.com/38545757/121596376-b8e3e880-ca15-11eb-8da3-4b38ba7eab2e.png)
 
 
 
