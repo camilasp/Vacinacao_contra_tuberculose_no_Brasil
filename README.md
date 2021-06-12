@@ -41,7 +41,8 @@
 
 
 <h3> Referências</h3>
- <li>Vacina BCG: eficácia e indicações da vacinação e da revacinaçãohttps://www.scielo.br/j/jped/a/TCg8DMtnxLMtRfRvFb5QxZs/?lang=pt</li>
+ <li>Vacina BCG: eficácia e indicações da vacinação e da revacinação https://www.scielo.br/j/jped/a/TCg8DMtnxLMtRfRvFb5QxZs/?lang=pt</li>
  <li> Vale a pena insistir na vacina BCG? https://revistapesquisa.fapesp.br/vale-a-pena-insistir-na-vacina-bcg/</li>
  <li> https://veja.abril.com.br/blog/diario-da-vacina/a-eficacia-das-vacinas-que-voce-certamente-ja-tomou-na-vida/</li>
-  <li>https://www.flickr.com/photos/selfmagazine/48545839516/in/album-72157710332198661/</li>
+ <li>https://www.flickr.com/photos/selfmagazine/48545839516/in/album-72157710332198661/</li>
+ <li>http://www.ripsa.org.br/fichasIDB/pdf/ficha_F.13.pdf</li>
