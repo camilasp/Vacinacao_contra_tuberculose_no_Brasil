@@ -10,6 +10,8 @@
 <h3> A importância da vacinação</h3>
 <p>As vacinas são a estratégia de intervenção com a melhor relação custo-benefício até hoje aplicada em saúde pública. Mas a vacinação é um esforço coletivo, isso significa que a vacinação de poucos indivíduos têm pouco impacto, mas quando ela é feita em massa, fornece uma proteção eficiente a toda sociedade, pois diminui a taxa de propagação da doença, por impedir ou dificultar que as pessoas venham a desenvolver a infecção pelo patógeno e, portanto, se tornarem transmissores. </p>
  
+<img src="https://github.com/camilasp/Vacinacao_contra_tuberculose_no_Brasil/blob/main/Fotos/vacina_crianca.jpg?raw=true">
+
 
 <h3> A vacina BCG</h3>
 
