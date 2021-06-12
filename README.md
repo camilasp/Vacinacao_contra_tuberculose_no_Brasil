@@ -3,7 +3,7 @@
 
 <h2> Sobre o Projeto</h2>
 
-<p> Esse projeto foi desenvolvido durante o <a href="https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas" target="_blank">Bootcamp de Data Science aplicada</a> da <a href="https://www.alura.com.br/">Alura</a>. Neste segundo módulo do curso, fomos instruídos a buscar dados referentes à imunização, que podem ser encontrados no site do <a href="http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#">Tabnet DATASUS</a>. Eu escolhi analisar os dados referentes à cobertura vacinal da BCG, os casos de tuberculose confirmados e os óbitos por tuberculose, no período de 2001 a 2020, ou seja, foram analisadas três bases de dados diferentes, todas no DATASUS.
+<p> Esse projeto foi desenvolvido durante o <a href="https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas" target="_blank">Bootcamp de Data Science aplicada</a> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>. Neste segundo módulo do curso, fomos instruídos a buscar dados referentes à imunização, que podem ser encontrados no site do <a href="http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#" target="_blank">Tabnet DATASUS</a>. Eu escolhi analisar os dados referentes à cobertura vacinal da BCG, os casos de tuberculose confirmados e os óbitos por tuberculose, no período de 2001 a 2020, ou seja, foram analisadas três bases de dados diferentes, todas no DATASUS.
 
 <h2>Vacinação e Tuberculose</h2>
 
