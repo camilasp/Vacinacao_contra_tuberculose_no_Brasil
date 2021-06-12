@@ -4,6 +4,8 @@
 <h2> Sobre o Projeto</h2>
 
 <p> Esse projeto foi desenvolvido durante o <a href="https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas" target="_blank">Bootcamp de Data Science aplicada</a> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>. Neste segundo módulo do curso, fomos instruídos a buscar dados referentes à imunização, que podem ser encontrados no site do <a href="http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#" target="_blank">Tabnet DATASUS</a>. Eu escolhi analisar os dados referentes à cobertura vacinal da BCG, os casos de tuberculose confirmados e os óbitos por tuberculose, no período de 2001 a 2020, ou seja, foram analisadas três bases de dados diferentes, todas no DATASUS.
+ <h3>Objetivo</h3>
+ <p> Analisar a cobertura de vacinação contra tuberculose no território nacional ao longo dos anos - de 2001 a 2020- e verificar se há alguma relação aparente entre a variação da cobertura e o número de casos e de mortes por tuberculose.</p>
 
 <h2>Vacinação e Tuberculose</h2>
 
@@ -22,6 +24,31 @@
 
 <h2>Sobre os dados utilizados:</h2>
 
+
+ <table style="width:100%">
+ <tr>
+  <th>Nome dos dados</th>
+  <th> O que são? </th>
+  <th> Método de cálculo</th>
+  <tr>
+    <th>Cobertura Vacinal</th>
+   <td> Imunização por ano e por UF contra Tuberculose pelo uso da vacina BCG</td>
+    <td>A fórmula de cálculo da cobertura vacinal é o número de doses aplicadas da dose indicada (1ª, 2ª, 3ª dose ou dose única, conforme a vacina) dividida
+pela população alvo, multiplicado por 100</td> 
+    
+  </tr>
+  <tr>
+    <th>Número de casos confirmados</th>
+    <td>Casos confirmados notificados no sistema de notificação de agravos de notificação - Brasil</td>
+    <td>Número de casos confirmados e processados por ano e por UF</td>
+  </tr>
+  <tr>
+    <th>Morbidade/Obitos</th>
+    <td>Quantidade de internações que tiveram alta por óbito, nas AIH (Autorização de
+Internação Hospitalar) aprovadas no período no SUS</td>
+    <td>Quantidade de internações no SUS, classificadas na Lista Morb CID-10 como tuberculose(Tuberculose Pulmonar,  Outras tuberculoses respiratórias,	 Restante de tuberculose respiratória,	 Tuberculose do sistema nervoso,	 Tuberc intest peritônio glângl mesentéricos,	 Tuberculose óssea e das articulações,	 Tuberculose do aparelho geniturinário,	 Tuberculose miliar e	 Restante de outras tuberculoses) e para as quais a alta foi por óbito- Dados por ano e por UF </td>
+  </tr>
+ </table>
 
 
 
@@ -46,3 +73,4 @@
  <li> https://veja.abril.com.br/blog/diario-da-vacina/a-eficacia-das-vacinas-que-voce-certamente-ja-tomou-na-vida/</li>
  <li>https://www.flickr.com/photos/selfmagazine/48545839516/in/album-72157710332198661/</li>
  <li>http://www.ripsa.org.br/fichasIDB/pdf/ficha_F.13.pdf</li>
+ <li>http://tabnet.datasus.gov.br/cgi/pni/Imun_cobertura_desde_1994.pdf</li>
