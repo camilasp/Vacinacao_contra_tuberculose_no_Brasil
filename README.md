@@ -3,9 +3,9 @@
 
 <h2> Sobre o Projeto</h2>
 
-<p> Esse projeto foi desenvolvido durante o <a href="https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas" target="_blank">Bootcamp de Data Science aplicada</a> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>. Neste segundo módulo do curso, fomos instruídos a buscar dados referentes à imunização, que podem ser encontrados no site do <a href="http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#" target="_blank">Tabnet DATASUS</a>. Eu escolhi analisar os dados referentes à cobertura vacinal da BCG, os casos de tuberculose confirmados e os óbitos por tuberculose, no período de 2001 a 2020, ou seja, foram analisadas três bases de dados diferentes, todas no DATASUS.
+<p> Esse projeto foi desenvolvido durante o <a href="https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas" target="_blank">Bootcamp de Data Science aplicada</a> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>. Neste segundo módulo do curso, fomos instruídos a buscar dados referentes à imunização, que podem ser encontrados no site do <a href="http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#" target="_blank">Tabnet DATASUS</a>. Eu escolhi analisar os dados referentes à cobertura vacinal da BCG e os casos de tuberculose confirmadoss,  no período de 2001 a 2020, ou seja, foram analisadas duas bases de dados diferentes, ambas do DATASUS.
  <h3>Objetivo</h3>
- <p> Analisar a cobertura de vacinação contra tuberculose no território nacional ao longo dos anos - de 2001 a 2020- e verificar se há alguma relação aparente entre a variação da cobertura e o número de casos e de mortes por tuberculose.</p>
+ <p> Analisar a cobertura de vacinação contra tuberculose no território nacional ao longo dos anos - de 2001 a 2020- e verificar se há alguma relação aparente entre a variação da cobertura e o número de casos de tuberculose.</p>
 
 <h2>Vacinação e Tuberculose</h2>
 
@@ -41,12 +41,6 @@ pela população alvo, multiplicado por 100</td>
     <th>Número de casos confirmados</th>
     <td>Casos confirmados notificados no sistema de notificação de agravos de notificação - Brasil</td>
     <td>Número de casos confirmados e processados por ano e por UF</td>
-  </tr>
-  <tr>
-    <th>Morbidade/Obitos</th>
-    <td>Quantidade de internações que tiveram alta por óbito, nas AIH (Autorização de
-Internação Hospitalar) aprovadas no período no SUS</td>
-    <td>Quantidade de internações no SUS, classificadas na Lista Morb CID-10 como tuberculose(Tuberculose Pulmonar,  Outras tuberculoses respiratórias,	 Restante de tuberculose respiratória,	 Tuberculose do sistema nervoso,	 Tuberc intest peritônio glângl mesentéricos,	 Tuberculose óssea e das articulações,	 Tuberculose do aparelho geniturinário,	 Tuberculose miliar e	 Restante de outras tuberculoses) e para as quais a alta foi por óbito- Dados por ano e por UF </td>
   </tr>
  </table>
 
