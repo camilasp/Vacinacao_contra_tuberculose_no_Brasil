@@ -3,7 +3,7 @@
 
 <h2> Sobre o Projeto</h2>
 
-<p> Esse projeto foi desenvolvido durante o <a href="https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas" target="_blank">Bootcamp de Data Science aplicada</a> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>. Neste segundo módulo do curso, fomos instruídos a buscar dados referentes à imunização, que podem ser encontrados no site do <a href="http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#" target="_blank">Tabnet DATASUS</a>. Eu escolhi analisar os dados referentes à cobertura vacinal da BCG e os casos de tuberculose confirmadoss,  no período de 2001 a 2020, ou seja, foram analisadas duas bases de dados diferentes, ambas do DATASUS.
+<p> Esse projeto foi desenvolvido durante o <a href="https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas" target="_blank">Bootcamp de Data Science aplicada</a> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>. Neste segundo módulo do curso, fomos instruídos a buscar dados referentes à imunização, que podem ser encontrados no site do <a href="http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#" target="_blank">Tabnet DATASUS</a>. Eu escolhi analisar os dados referentes à cobertura vacinal da BCG e os casos de tuberculose confirmados, no período de 2001 a 2020, ou seja, foram analisadas duas bases de dados diferentes, ambas do DATASUS.
  <h3>Objetivo</h3>
  <p> Analisar a cobertura de vacinação contra tuberculose no território nacional ao longo dos anos - de 2001 a 2020- e verificar se há alguma relação aparente entre a variação da cobertura e o número de casos de tuberculose.</p>
 
